@@ -79,6 +79,14 @@
             }
         },
         {
+            "Key": "45ee36e9-a9a3-4b81-80a8-4d12ea2badd2",
+            "Value": {
+                "id": "1be2e8c5-d6b1-45df-b0f0-72bf19fea8dc",
+                "resourcePath": "sprites\\spr_asteroid_small\\spr_asteroid_small.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "4c48a21a-376b-4ce6-bc62-a949d6c358c5",
             "Value": {
                 "id": "a1036c18-9e32-4511-97ec-0a0d6a5ed321",
@@ -103,9 +111,17 @@
             }
         },
         {
-            "Key": "989feccd-041c-47eb-ac40-9f28dfebc9a9",
+            "Key": "7d276a89-6ba0-4860-865a-340b4be9d6f0",
             "Value": {
-                "id": "023b5c6e-b698-4254-ac0f-9b4c17f9b7d9",
+                "id": "1d99ce3a-2071-4e62-ab03-9df7aa5f717b",
+                "resourcePath": "sprites\\spr_ship\\spr_ship.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "8cfad6e2-00a8-408b-a432-32872a15118b",
+            "Value": {
+                "id": "306cf371-1f4f-4810-9a59-ba2eaeb5d80b",
                 "resourcePath": "rooms\\room0\\room0.yy",
                 "resourceType": "GMRoom"
             }
@@ -135,6 +151,14 @@
             }
         },
         {
+            "Key": "be7d37b3-8b80-4880-b0bf-2706b614def1",
+            "Value": {
+                "id": "44b9324c-155a-4b0d-b8bb-99410b17d655",
+                "resourcePath": "sprites\\spr_asteroid_huge\\spr_asteroid_huge.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "c97f227c-5226-42f6-b74b-85472d2fdc4a",
             "Value": {
                 "id": "62f8aa34-f524-46b0-b3fb-468b87f81e72",
@@ -148,6 +172,14 @@
                 "id": "1ef38d97-f713-45b9-8162-bffee3ead3dc",
                 "resourcePath": "options\\windows\\options_windows.yy",
                 "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "cd16fe40-8871-4422-9f7a-22a6ab3557f0",
+            "Value": {
+                "id": "2ff01f62-31c1-4cce-9d26-4ce9ef44040d",
+                "resourcePath": "sprites\\spr_asteroid_med\\spr_asteroid_med.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
