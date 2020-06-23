@@ -1,4 +1,4 @@
-/// @description Controls events that can occur on each frame
+/// @description Behaviour that can occurs on each frame
 //Code added here will run 60 times per second
 
 // Rotation
