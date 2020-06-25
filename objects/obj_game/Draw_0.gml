@@ -25,7 +25,7 @@ SPACE: shoot
 "
 		);
 		// Reassign text left
-		draw_set_halign(left);
+		draw_set_halign(fa_left);
 		break;
 
 	case rm_win:
