@@ -223,6 +223,14 @@
             }
         },
         {
+            "Key": "b3439ccb-956c-4b61-b6bf-d7cccb63ad18",
+            "Value": {
+                "id": "c32ea626-7f0a-4547-b095-1c301673672c",
+                "resourcePath": "rooms\\rm_win\\rm_win.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "be7d37b3-8b80-4880-b0bf-2706b614def1",
             "Value": {
                 "id": "44b9324c-155a-4b0d-b8bb-99410b17d655",
@@ -292,6 +300,14 @@
                 "id": "3d7a3615-1f54-463c-911d-1cfc66acc312",
                 "resourcePath": "options\\mac\\options_mac.yy",
                 "resourceType": "GMMacOptions"
+            }
+        },
+        {
+            "Key": "f8b6bcec-aa5b-465a-8965-62395ffb56d4",
+            "Value": {
+                "id": "656a6ca2-be8e-48e5-8404-fcefe2e3ca77",
+                "resourcePath": "rooms\\rm_gameover\\rm_gameover.yy",
+                "resourceType": "GMRoom"
             }
         }
     ],
