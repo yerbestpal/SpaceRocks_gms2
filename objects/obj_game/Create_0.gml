@@ -6,3 +6,5 @@ lives = 3;
 
 // Set game font
 draw_set_font(fnt_text);
+
+randomize();
