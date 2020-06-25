@@ -1,5 +1,11 @@
 if (room == rm_game) {
+	// Restart music when player dies
+	if (audio_is_playing(msc_song)) {
+		audio_stop_sound(msc_song);
+	}
+	// Play music
 	audio_play_sound(msc_song, 2, true);
+	
 	repeat(6) {
 		var xx = choose(
 			irandom_range(0, room_width * 0.3),
