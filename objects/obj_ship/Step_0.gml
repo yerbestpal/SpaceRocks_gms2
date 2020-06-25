@@ -14,4 +14,10 @@ if (keyboard_check(vk_up)) {
 	motion_add(image_angle, 0.05);
 }
 
+// Shoot bullets
+if (keyboard_check_pressed(vk_space)) {
+	var bulletInstance = instance_create_layer(x, y, "Instances", obj_bullet);
+	bulletInstance.direction = image_angle;
+}
+
 move_wrap(true, true, sprite_width / 2);
