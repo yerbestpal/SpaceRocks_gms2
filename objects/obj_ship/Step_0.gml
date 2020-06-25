@@ -17,6 +17,7 @@ if (keyboard_check(vk_up)) {
 // Shoot bullets
 if (keyboard_check_pressed(vk_space)) {
 	var bulletInstance = instance_create_layer(x, y, "Instances", obj_bullet);
+	audio_play_sound(snd_zap, 1, false);
 	bulletInstance.direction = image_angle;
 }
 
