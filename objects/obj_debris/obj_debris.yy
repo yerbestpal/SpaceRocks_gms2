@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "obj_debris",
     "eventList": [
-        
+        {
+            "id": "f7347d13-5727-4412-be20-7e2c0f566547",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "0fd84f70-24ba-4b45-8f6d-de6eea456f81"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
