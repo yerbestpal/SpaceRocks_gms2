@@ -1,5 +1,7 @@
 /// @description Behaviour that occurs when bullet collides with asteroids
 
+score += 10;
+
 instance_destroy();
 
 // The bullet does not call this; the other instance in the 
